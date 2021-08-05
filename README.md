@@ -8,5 +8,5 @@
 
 ### 作业3 ###
 - 找出影评次数最多的女士所给出最高分的10部电影的平均影评分，展示电影名和平均影评分（可使用多行SQL）  
-in子查询中就是找出找出影评次数最多的女士的userid，res2结果集就是影评次数最多的女士所给出最高分的10部电影的movieid  
+left semi join后面的子查询就是找出影评次数最多的女士的userid，res2结果集就是影评次数最多的女士所给出最高分的10部电影的movieid  
 ![image](https://github.com/18024509136/hive-sql/blob/master/%E4%BD%9C%E4%B8%9A3.png)
